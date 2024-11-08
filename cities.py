@@ -22,4 +22,4 @@ def help(message):
 bot.polling(none_stop=True, interval=0)
 
 #test
-#test_tal
+#test_tal_uwu
